@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Create a Notification"
+        android:onClick="displayNotification"
         tools:layout_editor_absoluteX="98dp"
         tools:layout_editor_absoluteY="231dp" />
 
